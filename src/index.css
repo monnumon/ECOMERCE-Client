@@ -1,0 +1,25 @@
+.slider img{
+  height: 450px;
+  object-fit: cover;
+}
+
+.search form {
+  display: flex;
+  align-items: center;
+  column-gap: 16px;
+  
+}
+
+.submenu-profile {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.submenu-profile div {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.COUNT {
+  width: 10% !important;
+}
